@@ -48,7 +48,7 @@ settings.theme = `
 /* Edit these variables for easy theme making */
 :root {
   /* Font */
-  --font: 'Roboto', sans-serif;
+  --font: 'JetBrains Mono', sans-serif;
   --font-size: 16;
   --font-weight: normal;
   /* -------------- */
